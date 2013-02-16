@@ -1,0 +1,6 @@
+MP RAIR
+
+As many of you already know mines are all around Bosnia. And obviously someone has to do something for it. While thinking about these we finally came up with an idea. An idea of a robot which would help in the area of mines.  Even if it wouldn't be able to get rid of mines by itself it would at least help determine their location. 
+As we got our base plan set almost for certain we got ideas of improvement. These ideas changed the purpose of our project and turned it into a 'Rescue and Investigation' Robot from a simple RC mine detector. 
+MP RAIR is a Remotely controlled Rescue and Investigation Robot with the ability to detect mines, pin down mine location on the map by means of GPS condinates, detect temperature, stream live video to the control PC, etc...
+MP RAIR is a Robot useful in many areas, from hobby to Military purposes. Hobby Metal Detectorists could make great use of it. MP RAIR could save soldiers' lives. Instead of having soldiers die while trying to clean the way up for others, they could simply use MP RAIR to detect the mines from distance then find and defuse them just like they planted them themselves...

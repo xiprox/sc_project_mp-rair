@@ -1,0 +1,27 @@
+Part        Value               Package              Library           Position (mil)        Orientation
+
+1UF-INPUT                       CPOL-RADIAL-10UF-25V SparkFun-Passives (1105 2401)           R0
+1UF-OUTPUT                      CPOL-RADIAL-10UF-25V SparkFun-Passives (990 1208)            R180
+ARDUINO     ARDUINO_SHIELDLABEL DUEMILANOVE_SHIELD   SparkFun-Boards   (100 700)             R0
+BT                              MA04-1               con-lstb          (548 1681)            R180
+GPS                             MA04-1               con-lstb          (540 1845)            R180
+IR                              1X02                 pinhead           (574 1500)            R0
+LM7805                          TO220H               linear            (1057 1792)           R180
+MDETECT                         1X01                 pinhead           (1400 2850)           R0
+M_INDIC_LED                     1X02                 pinhead           (882 895)             R180
+R2                              AXIAL-0.3            SparkFun-Passives (552 897)             R180
+S1                              MA03-1               con-lstb          (529 2781)            R0
+S2                              MA03-1               con-lstb          (529 2639)            R0
+S3                              MA03-1               con-lstb          (530 2485)            R0
+S4                              MA03-1               con-lstb          (535 2324)            R0
+S5                              MA03-1               con-lstb          (536 2167)            R0
+S6                              MA03-1               con-lstb          (545 1993)            R0
+TEMP                            MA03-1               con-lstb          (932 2867)            R90
+VCC                             1X02                 pinhead           (1109 2635)           R180
+
+
+
+
+
+
+
